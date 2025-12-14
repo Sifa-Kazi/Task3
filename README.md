@@ -31,9 +31,11 @@ Steps Performed
 Tools Used
 
 • SQLite
+
 • DB Browser for SQLite
 
 Output
 
 • SQL queries file (task3_sql_queries.sql)
+
 • Screenshot PDF of query outputs
